@@ -1,0 +1,28 @@
+h1 {
+    color: #826F66;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+
+table.table2, th:hover, td {
+    color: #826F66;
+    border: 2px solid;
+    border-collapse: collapse;
+    padding: 0.5em;
+    margin: auto;
+}
+
+th {
+    color: #F4FCD9;
+    background-color: #062C30;
+}
+
+tr:nth-child(even) {
+    color: #1C0A00;
+    background-color: #EEEDDE;
+}
+
+tr:nth-child(odd) {
+    color: #1C0A00;
+    background-color: #94B49F;
+}

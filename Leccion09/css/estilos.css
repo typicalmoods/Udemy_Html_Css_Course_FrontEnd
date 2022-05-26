@@ -1,0 +1,14 @@
+body {
+    color: #FAF0D7;
+    background-attachment: fixed;
+    background: #242F9B url(/img/17010.jpg) no-repeat right top;
+}
+
+h1 {
+    text-align: center;
+    background-color: #242F9B;
+}
+
+.scroll {
+    overflow: auto;
+}

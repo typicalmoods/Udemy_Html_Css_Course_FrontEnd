@@ -1,0 +1,29 @@
+html {
+    background-image: url("/imagenes/foto2.jpg");
+}
+
+h1 {
+    text-align: center;
+    color: #e63946;
+}
+
+
+.caja {
+    padding: 10px;
+    color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    margin: 5px auto;
+    font-size: 10px;
+    float: left;
+}
+
+**
+p {
+    background-image: url("/imagenes/foto2.jpg");
+}
+
+.fondo {
+    background-color: #e63946;
+}

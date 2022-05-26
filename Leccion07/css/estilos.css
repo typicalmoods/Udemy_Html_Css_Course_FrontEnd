@@ -1,0 +1,17 @@
+h1 {
+    color: #9A86A4;
+    font-family: 'Oswald', sans-serif;
+}
+
+div.cuadro {
+    padding: 1em 1em 1em 1em;
+    border: 1em solid #5F7161;
+    margin-left: 100px;
+    background-color: #EFEAD8;
+    max-width: 300px;
+    box-sizing: border-box;
+}
+
+p.interno {
+    margin-left: inherit;
+}

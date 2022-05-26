@@ -1,0 +1,34 @@
+h1 {
+    color: #5F7161;
+    background-color: #A85CF9;
+    margin-right: 85%;
+}
+
+p {
+    color: #EDE6DB;
+    background-color: #417D7A;
+    padding: 5%;
+    border: 55px solid #614124;
+    margin: 50px;
+}
+
+a {
+    background-color: #82A284;
+    display: inline-block;
+    text-decoration: none;
+}
+
+img {
+    width: 10em;
+    height: 10em;
+    
+}
+
+.a1:hover {
+    color: black;
+    background-color: #417D7A;
+}
+
+.a2:active {
+    color: #FFD24C;
+}
